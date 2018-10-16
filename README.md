@@ -14,3 +14,4 @@ Currently, this wallet is under-development and not opensource. But planned to b
 
 - iOS (TestFlight Beta Test)
 - Android Test App
+  - https://github.com/nyarute/Che-Wallet/releases/download/0.1/app-release.apk
