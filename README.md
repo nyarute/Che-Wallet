@@ -18,3 +18,12 @@ Currently, this wallet is under-development and not opensource. But planned to b
   - https://testflight.apple.com/join/ELBL1EeW
 - Android Test App
   - https://github.com/nyarute/Che-Wallet/releases/download/1/app-release.apk
+  
+### Faucet 
+
+If you want to test in testnet(ropsten and kovan), use these faucets.
+
+- https://faucet.ropsten.be/
+- https://faucet.metamask.io/
+- https://faucet.kovan.network/
+- https://gitter.im/kovan-testnet/faucet
