@@ -8,7 +8,7 @@ Currently, this wallet is under-development and not opensource. But planned to b
 
 - Ethereum and ERC20 compatible
 - Atomic Swap (using Kyber)
-  - ropsten and mainnet
+  - ropsten, kyber and mainnet
 
 ### link
 
