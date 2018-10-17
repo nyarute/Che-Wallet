@@ -26,4 +26,5 @@ If you want to test in testnet(ropsten and kovan), use these faucets.
 - https://faucet.ropsten.be/
 - https://faucet.metamask.io/
 - https://faucet.kovan.network/
+- https://0xproject.com/portal/account
 - https://gitter.im/kovan-testnet/faucet
